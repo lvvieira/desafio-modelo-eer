@@ -2,7 +2,7 @@
 
 # Desafio de Projeto - Modelo Conceitual e Relacional
 
-Este projeto foi desenvolvido como parte do desafio proposto no curso de Modelagem de Banco de Dados.
+Este projeto foi desenvolvido como parte do desafio proposto no curso de Refinando um Projeto Conceitual de Banco de Dados..
 
 ## Objetivo do Projeto
 
@@ -21,7 +21,7 @@ Criar e refinar o esquema conceitual de um sistema de gerenciamento de pedidos, 
 
 ## Modelo Conceitual
 
-![Diagrama Conceitual]([path/to/image.png](https://github.com/lvvieira/desafio-modelo-eer/blob/main/diagrama_eer_projeto.pdf)
+![Diagrama Conceitual]([path/to/image.png](https://github.com/lvvieira/desafio-modelo-eer/blob/main/diagrama_eer_projeto.pdf))
 
 ## Scripts
 
