@@ -21,7 +21,7 @@ Criar e refinar o esquema conceitual de um sistema de gerenciamento de pedidos, 
 
 ## Modelo Conceitual
 
-![Diagrama Conceitual](path/to/image.png)
+![Diagrama Conceitual]([path/to/image.png](https://github.com/lvvieira/desafio-modelo-eer/blob/main/diagrama_eer_projeto.pdf)
 
 ## Scripts
 
